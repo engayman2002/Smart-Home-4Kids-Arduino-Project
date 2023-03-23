@@ -1,2 +1,2 @@
-# Smart-Home-4Kids-Arduino-Project
+# Smart-Home-Arduino-Project
 This Smart Home Arduino Project
